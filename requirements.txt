@@ -1,0 +1,7 @@
+pillow
+keyboard
+opencv-python
+click
+numpy
+pywin32
+mouse
